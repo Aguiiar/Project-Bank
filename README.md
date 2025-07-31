@@ -1,6 +1,6 @@
 # 💰 Sistema Bancário com Spring Boot
 
-Este projeto é uma API RESTful de sistema bancário, desenvolvida com Java 21 e Spring Boot. Ele foi projetado para oferecer de forma segura e robusta operações de um ambiente bancário, como cadastro de clientes, criação de contas, autenticação, transações e muito mais.
+Este projeto é uma API RESTful de sistema bancário, desenvolvida com Java e Spring Boot. Ele foi projetado para oferecer de forma segura e robusta operações de um ambiente bancário, como cadastro de clientes, criação de contas, autenticação, transações e muito mais.
 
 A aplicação permite o cadastro de clientes, que é o primeiro passo obrigatório para acesso ao sistema. Somente após o registro do cliente é possível criar credenciais de login e acessar as funcionalidades internas da plataforma. Isso garante que apenas usuários devidamente identificados possam interagir com os serviços bancários disponíveis.
 
